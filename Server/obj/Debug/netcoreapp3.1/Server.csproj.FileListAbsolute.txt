@@ -1,0 +1,175 @@
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Server\bin\Debug\netcoreapp3.1\Server.exe
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Server\bin\Debug\netcoreapp3.1\Server.dll
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Server\bin\Debug\netcoreapp3.1\Server.pdb
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Server\obj\Debug\netcoreapp3.1\Server.Form1.resources
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Server\obj\Debug\netcoreapp3.1\Server.csproj.GenerateResource.cache
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Server\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Server\obj\Debug\netcoreapp3.1\Server.dll
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Server\obj\Debug\netcoreapp3.1\Server.pdb
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+D:\Users\ugurkagan\Desktop\Project\Project\Server\bin\Debug\netcoreapp3.1\Server.exe
+D:\Users\ugurkagan\Desktop\Project\Project\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+D:\Users\ugurkagan\Desktop\Project\Project\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+D:\Users\ugurkagan\Desktop\Project\Project\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+D:\Users\ugurkagan\Desktop\Project\Project\Server\bin\Debug\netcoreapp3.1\Server.dll
+D:\Users\ugurkagan\Desktop\Project\Project\Server\bin\Debug\netcoreapp3.1\Server.pdb
+D:\Users\ugurkagan\Desktop\Project\Project\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+D:\Users\ugurkagan\Desktop\Project\Project\Server\obj\Debug\netcoreapp3.1\Server.Form1.resources
+D:\Users\ugurkagan\Desktop\Project\Project\Server\obj\Debug\netcoreapp3.1\Server.csproj.GenerateResource.cache
+D:\Users\ugurkagan\Desktop\Project\Project\Server\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ugurkagan\Desktop\Project\Project\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\Users\ugurkagan\Desktop\Project\Project\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\Users\ugurkagan\Desktop\Project\Project\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+D:\Users\ugurkagan\Desktop\Project\Project\Server\obj\Debug\netcoreapp3.1\Server.dll
+D:\Users\ugurkagan\Desktop\Project\Project\Server\obj\Debug\netcoreapp3.1\Server.pdb
+D:\Users\ugurkagan\Desktop\Project\Project\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+D:\Users\ugurkagan\Desktop\432_Project\Project\Server\bin\Debug\netcoreapp3.1\Server.exe
+D:\Users\ugurkagan\Desktop\432_Project\Project\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+D:\Users\ugurkagan\Desktop\432_Project\Project\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+D:\Users\ugurkagan\Desktop\432_Project\Project\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+D:\Users\ugurkagan\Desktop\432_Project\Project\Server\bin\Debug\netcoreapp3.1\Server.dll
+D:\Users\ugurkagan\Desktop\432_Project\Project\Server\bin\Debug\netcoreapp3.1\Server.pdb
+D:\Users\ugurkagan\Desktop\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+D:\Users\ugurkagan\Desktop\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.Form1.resources
+D:\Users\ugurkagan\Desktop\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.csproj.GenerateResource.cache
+D:\Users\ugurkagan\Desktop\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ugurkagan\Desktop\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\Users\ugurkagan\Desktop\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\Users\ugurkagan\Desktop\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+D:\Users\ugurkagan\Desktop\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.dll
+D:\Users\ugurkagan\Desktop\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.pdb
+D:\Users\ugurkagan\Desktop\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Server\bin\Debug\netcoreapp3.1\Server.exe
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Server\bin\Debug\netcoreapp3.1\Server.dll
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Server\bin\Debug\netcoreapp3.1\Server.pdb
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.Form1.resources
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.csproj.GenerateResource.cache
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.dll
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.pdb
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+S:\ders\CS432\432_Project\Project\Server\bin\Debug\netcoreapp3.1\Server.exe
+S:\ders\CS432\432_Project\Project\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+S:\ders\CS432\432_Project\Project\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+S:\ders\CS432\432_Project\Project\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+S:\ders\CS432\432_Project\Project\Server\bin\Debug\netcoreapp3.1\Server.dll
+S:\ders\CS432\432_Project\Project\Server\bin\Debug\netcoreapp3.1\Server.pdb
+S:\ders\CS432\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+S:\ders\CS432\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.Form1.resources
+S:\ders\CS432\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.csproj.GenerateResource.cache
+S:\ders\CS432\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+S:\ders\CS432\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+S:\ders\CS432\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+S:\ders\CS432\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+S:\ders\CS432\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.dll
+S:\ders\CS432\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.pdb
+S:\ders\CS432\432_Project\Project\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+D:\Users\ugurkagan\Desktop\Project\Server\bin\Debug\netcoreapp3.1\Server.exe
+D:\Users\ugurkagan\Desktop\Project\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+D:\Users\ugurkagan\Desktop\Project\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+D:\Users\ugurkagan\Desktop\Project\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+D:\Users\ugurkagan\Desktop\Project\Server\bin\Debug\netcoreapp3.1\Server.dll
+D:\Users\ugurkagan\Desktop\Project\Server\bin\Debug\netcoreapp3.1\Server.pdb
+D:\Users\ugurkagan\Desktop\Project\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+D:\Users\ugurkagan\Desktop\Project\Server\obj\Debug\netcoreapp3.1\Server.Form1.resources
+D:\Users\ugurkagan\Desktop\Project\Server\obj\Debug\netcoreapp3.1\Server.csproj.GenerateResource.cache
+D:\Users\ugurkagan\Desktop\Project\Server\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ugurkagan\Desktop\Project\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\Users\ugurkagan\Desktop\Project\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\Users\ugurkagan\Desktop\Project\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+D:\Users\ugurkagan\Desktop\Project\Server\obj\Debug\netcoreapp3.1\Server.dll
+D:\Users\ugurkagan\Desktop\Project\Server\obj\Debug\netcoreapp3.1\Server.pdb
+D:\Users\ugurkagan\Desktop\Project\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+S:\ders\CS432\432Project\Project\Server\bin\Debug\netcoreapp3.1\Server.exe
+S:\ders\CS432\432Project\Project\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+S:\ders\CS432\432Project\Project\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+S:\ders\CS432\432Project\Project\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+S:\ders\CS432\432Project\Project\Server\bin\Debug\netcoreapp3.1\Server.dll
+S:\ders\CS432\432Project\Project\Server\bin\Debug\netcoreapp3.1\Server.pdb
+S:\ders\CS432\432Project\Project\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+S:\ders\CS432\432Project\Project\Server\obj\Debug\netcoreapp3.1\Server.Form1.resources
+S:\ders\CS432\432Project\Project\Server\obj\Debug\netcoreapp3.1\Server.csproj.GenerateResource.cache
+S:\ders\CS432\432Project\Project\Server\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+S:\ders\CS432\432Project\Project\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+S:\ders\CS432\432Project\Project\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+S:\ders\CS432\432Project\Project\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+S:\ders\CS432\432Project\Project\Server\obj\Debug\netcoreapp3.1\Server.dll
+S:\ders\CS432\432Project\Project\Server\obj\Debug\netcoreapp3.1\Server.pdb
+S:\ders\CS432\432Project\Project\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Server\bin\Debug\netcoreapp3.1\Server.exe
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Server\bin\Debug\netcoreapp3.1\Server.dll
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Server\bin\Debug\netcoreapp3.1\Server.pdb
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Server\obj\Debug\netcoreapp3.1\Server.Form1.resources
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Server\obj\Debug\netcoreapp3.1\Server.csproj.GenerateResource.cache
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Server\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Server\obj\Debug\netcoreapp3.1\Server.dll
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Server\obj\Debug\netcoreapp3.1\Server.pdb
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+C:\Users\Baran\Downloads\proje432\Server\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\Baran\Downloads\proje432\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\Baran\Downloads\proje432\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\Baran\Downloads\proje432\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\Baran\Downloads\proje432\Server\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\Baran\Downloads\proje432\Server\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\Baran\Downloads\proje432\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+C:\Users\Baran\Downloads\proje432\Server\obj\Debug\netcoreapp3.1\Server.Form1.resources
+C:\Users\Baran\Downloads\proje432\Server\obj\Debug\netcoreapp3.1\Server.csproj.GenerateResource.cache
+C:\Users\Baran\Downloads\proje432\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\Baran\Downloads\proje432\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\Baran\Downloads\proje432\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\Baran\Downloads\proje432\Server\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\Baran\Downloads\proje432\Server\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\Baran\Downloads\proje432\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+S:\ders\CS432\proje432\Server\bin\Debug\netcoreapp3.1\Server.exe
+S:\ders\CS432\proje432\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+S:\ders\CS432\proje432\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+S:\ders\CS432\proje432\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+S:\ders\CS432\proje432\Server\bin\Debug\netcoreapp3.1\Server.dll
+S:\ders\CS432\proje432\Server\bin\Debug\netcoreapp3.1\Server.pdb
+S:\ders\CS432\proje432\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+S:\ders\CS432\proje432\Server\obj\Debug\netcoreapp3.1\Server.Form1.resources
+S:\ders\CS432\proje432\Server\obj\Debug\netcoreapp3.1\Server.csproj.GenerateResource.cache
+S:\ders\CS432\proje432\Server\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+S:\ders\CS432\proje432\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+S:\ders\CS432\proje432\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+S:\ders\CS432\proje432\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+S:\ders\CS432\proje432\Server\obj\Debug\netcoreapp3.1\Server.dll
+S:\ders\CS432\proje432\Server\obj\Debug\netcoreapp3.1\Server.pdb
+S:\ders\CS432\proje432\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+D:\Users\ugurkagan\Desktop\proje432\Server\bin\Debug\netcoreapp3.1\Server.exe
+D:\Users\ugurkagan\Desktop\proje432\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+D:\Users\ugurkagan\Desktop\proje432\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+D:\Users\ugurkagan\Desktop\proje432\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+D:\Users\ugurkagan\Desktop\proje432\Server\bin\Debug\netcoreapp3.1\Server.dll
+D:\Users\ugurkagan\Desktop\proje432\Server\bin\Debug\netcoreapp3.1\Server.pdb
+D:\Users\ugurkagan\Desktop\proje432\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+D:\Users\ugurkagan\Desktop\proje432\Server\obj\Debug\netcoreapp3.1\Server.Form1.resources
+D:\Users\ugurkagan\Desktop\proje432\Server\obj\Debug\netcoreapp3.1\Server.csproj.GenerateResource.cache
+D:\Users\ugurkagan\Desktop\proje432\Server\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ugurkagan\Desktop\proje432\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\Users\ugurkagan\Desktop\proje432\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\Users\ugurkagan\Desktop\proje432\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+D:\Users\ugurkagan\Desktop\proje432\Server\obj\Debug\netcoreapp3.1\Server.dll
+D:\Users\ugurkagan\Desktop\proje432\Server\obj\Debug\netcoreapp3.1\Server.pdb
+D:\Users\ugurkagan\Desktop\proje432\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache

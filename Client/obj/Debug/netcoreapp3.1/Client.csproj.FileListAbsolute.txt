@@ -1,0 +1,175 @@
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Client\bin\Debug\netcoreapp3.1\Client.exe
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Client\bin\Debug\netcoreapp3.1\Client.dll
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Client\bin\Debug\netcoreapp3.1\Client.pdb
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Client\obj\Debug\netcoreapp3.1\Client.csproj.AssemblyReference.cache
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Client\obj\Debug\netcoreapp3.1\Client.Form1.resources
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Client\obj\Debug\netcoreapp3.1\Client.csproj.GenerateResource.cache
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Client\obj\Debug\netcoreapp3.1\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Client\obj\Debug\netcoreapp3.1\Client.dll
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Client\obj\Debug\netcoreapp3.1\Client.pdb
+D:\Users\ugurkagan\Desktop\Project (2)\Project\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
+D:\Users\ugurkagan\Desktop\432_Project\Project\Client\bin\Debug\netcoreapp3.1\Client.exe
+D:\Users\ugurkagan\Desktop\432_Project\Project\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+D:\Users\ugurkagan\Desktop\432_Project\Project\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+D:\Users\ugurkagan\Desktop\432_Project\Project\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+D:\Users\ugurkagan\Desktop\432_Project\Project\Client\bin\Debug\netcoreapp3.1\Client.dll
+D:\Users\ugurkagan\Desktop\432_Project\Project\Client\bin\Debug\netcoreapp3.1\Client.pdb
+D:\Users\ugurkagan\Desktop\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.csproj.AssemblyReference.cache
+D:\Users\ugurkagan\Desktop\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.Form1.resources
+D:\Users\ugurkagan\Desktop\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.csproj.GenerateResource.cache
+D:\Users\ugurkagan\Desktop\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ugurkagan\Desktop\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+D:\Users\ugurkagan\Desktop\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+D:\Users\ugurkagan\Desktop\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+D:\Users\ugurkagan\Desktop\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.dll
+D:\Users\ugurkagan\Desktop\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.pdb
+D:\Users\ugurkagan\Desktop\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Client\bin\Debug\netcoreapp3.1\Client.exe
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Client\bin\Debug\netcoreapp3.1\Client.dll
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Client\bin\Debug\netcoreapp3.1\Client.pdb
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.csproj.AssemblyReference.cache
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.Form1.resources
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.csproj.GenerateResource.cache
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.dll
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.pdb
+D:\Users\ugurkagan\Desktop\New folder (2)\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
+S:\ders\CS432\432_Project\Project\Client\bin\Debug\netcoreapp3.1\Client.exe
+S:\ders\CS432\432_Project\Project\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+S:\ders\CS432\432_Project\Project\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+S:\ders\CS432\432_Project\Project\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+S:\ders\CS432\432_Project\Project\Client\bin\Debug\netcoreapp3.1\Client.dll
+S:\ders\CS432\432_Project\Project\Client\bin\Debug\netcoreapp3.1\Client.pdb
+S:\ders\CS432\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.csproj.AssemblyReference.cache
+S:\ders\CS432\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.Form1.resources
+S:\ders\CS432\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.csproj.GenerateResource.cache
+S:\ders\CS432\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.GeneratedMSBuildEditorConfig.editorconfig
+S:\ders\CS432\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+S:\ders\CS432\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+S:\ders\CS432\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+S:\ders\CS432\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.dll
+S:\ders\CS432\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.pdb
+S:\ders\CS432\432_Project\Project\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
+D:\Users\ugurkagan\Desktop\Project\Client\bin\Debug\netcoreapp3.1\Client.exe
+D:\Users\ugurkagan\Desktop\Project\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+D:\Users\ugurkagan\Desktop\Project\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+D:\Users\ugurkagan\Desktop\Project\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+D:\Users\ugurkagan\Desktop\Project\Client\bin\Debug\netcoreapp3.1\Client.dll
+D:\Users\ugurkagan\Desktop\Project\Client\bin\Debug\netcoreapp3.1\Client.pdb
+D:\Users\ugurkagan\Desktop\Project\Client\obj\Debug\netcoreapp3.1\Client.csproj.AssemblyReference.cache
+D:\Users\ugurkagan\Desktop\Project\Client\obj\Debug\netcoreapp3.1\Client.Form1.resources
+D:\Users\ugurkagan\Desktop\Project\Client\obj\Debug\netcoreapp3.1\Client.csproj.GenerateResource.cache
+D:\Users\ugurkagan\Desktop\Project\Client\obj\Debug\netcoreapp3.1\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ugurkagan\Desktop\Project\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+D:\Users\ugurkagan\Desktop\Project\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+D:\Users\ugurkagan\Desktop\Project\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+D:\Users\ugurkagan\Desktop\Project\Client\obj\Debug\netcoreapp3.1\Client.dll
+D:\Users\ugurkagan\Desktop\Project\Client\obj\Debug\netcoreapp3.1\Client.pdb
+D:\Users\ugurkagan\Desktop\Project\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
+D:\Users\ugurkagan\Desktop\Project\Project\Client\bin\Debug\netcoreapp3.1\Client.exe
+D:\Users\ugurkagan\Desktop\Project\Project\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+D:\Users\ugurkagan\Desktop\Project\Project\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+D:\Users\ugurkagan\Desktop\Project\Project\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+D:\Users\ugurkagan\Desktop\Project\Project\Client\bin\Debug\netcoreapp3.1\Client.dll
+D:\Users\ugurkagan\Desktop\Project\Project\Client\bin\Debug\netcoreapp3.1\Client.pdb
+D:\Users\ugurkagan\Desktop\Project\Project\Client\obj\Debug\netcoreapp3.1\Client.csproj.AssemblyReference.cache
+D:\Users\ugurkagan\Desktop\Project\Project\Client\obj\Debug\netcoreapp3.1\Client.Form1.resources
+D:\Users\ugurkagan\Desktop\Project\Project\Client\obj\Debug\netcoreapp3.1\Client.csproj.GenerateResource.cache
+D:\Users\ugurkagan\Desktop\Project\Project\Client\obj\Debug\netcoreapp3.1\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ugurkagan\Desktop\Project\Project\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+D:\Users\ugurkagan\Desktop\Project\Project\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+D:\Users\ugurkagan\Desktop\Project\Project\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+D:\Users\ugurkagan\Desktop\Project\Project\Client\obj\Debug\netcoreapp3.1\Client.dll
+D:\Users\ugurkagan\Desktop\Project\Project\Client\obj\Debug\netcoreapp3.1\Client.pdb
+D:\Users\ugurkagan\Desktop\Project\Project\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
+S:\ders\CS432\432Project\Project\Client\bin\Debug\netcoreapp3.1\Client.exe
+S:\ders\CS432\432Project\Project\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+S:\ders\CS432\432Project\Project\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+S:\ders\CS432\432Project\Project\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+S:\ders\CS432\432Project\Project\Client\bin\Debug\netcoreapp3.1\Client.dll
+S:\ders\CS432\432Project\Project\Client\bin\Debug\netcoreapp3.1\Client.pdb
+S:\ders\CS432\432Project\Project\Client\obj\Debug\netcoreapp3.1\Client.csproj.AssemblyReference.cache
+S:\ders\CS432\432Project\Project\Client\obj\Debug\netcoreapp3.1\Client.Form1.resources
+S:\ders\CS432\432Project\Project\Client\obj\Debug\netcoreapp3.1\Client.csproj.GenerateResource.cache
+S:\ders\CS432\432Project\Project\Client\obj\Debug\netcoreapp3.1\Client.GeneratedMSBuildEditorConfig.editorconfig
+S:\ders\CS432\432Project\Project\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+S:\ders\CS432\432Project\Project\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+S:\ders\CS432\432Project\Project\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+S:\ders\CS432\432Project\Project\Client\obj\Debug\netcoreapp3.1\Client.dll
+S:\ders\CS432\432Project\Project\Client\obj\Debug\netcoreapp3.1\Client.pdb
+S:\ders\CS432\432Project\Project\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Client\bin\Debug\netcoreapp3.1\Client.exe
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Client\bin\Debug\netcoreapp3.1\Client.dll
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Client\bin\Debug\netcoreapp3.1\Client.pdb
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Client\obj\Debug\netcoreapp3.1\Client.csproj.AssemblyReference.cache
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Client\obj\Debug\netcoreapp3.1\Client.Form1.resources
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Client\obj\Debug\netcoreapp3.1\Client.csproj.GenerateResource.cache
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Client\obj\Debug\netcoreapp3.1\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Client\obj\Debug\netcoreapp3.1\Client.dll
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Client\obj\Debug\netcoreapp3.1\Client.pdb
+D:\Users\ugurkagan\Desktop\ugurkagan_Cakir_UgurKagan\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
+C:\Users\Baran\Downloads\proje432\Client\bin\Debug\netcoreapp3.1\Client.exe
+C:\Users\Baran\Downloads\proje432\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+C:\Users\Baran\Downloads\proje432\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+C:\Users\Baran\Downloads\proje432\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+C:\Users\Baran\Downloads\proje432\Client\bin\Debug\netcoreapp3.1\Client.dll
+C:\Users\Baran\Downloads\proje432\Client\bin\Debug\netcoreapp3.1\Client.pdb
+C:\Users\Baran\Downloads\proje432\Client\obj\Debug\netcoreapp3.1\Client.csproj.AssemblyReference.cache
+C:\Users\Baran\Downloads\proje432\Client\obj\Debug\netcoreapp3.1\Client.Form1.resources
+C:\Users\Baran\Downloads\proje432\Client\obj\Debug\netcoreapp3.1\Client.csproj.GenerateResource.cache
+C:\Users\Baran\Downloads\proje432\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+C:\Users\Baran\Downloads\proje432\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+C:\Users\Baran\Downloads\proje432\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+C:\Users\Baran\Downloads\proje432\Client\obj\Debug\netcoreapp3.1\Client.dll
+C:\Users\Baran\Downloads\proje432\Client\obj\Debug\netcoreapp3.1\Client.pdb
+C:\Users\Baran\Downloads\proje432\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
+S:\ders\CS432\proje432\Client\bin\Debug\netcoreapp3.1\Client.exe
+S:\ders\CS432\proje432\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+S:\ders\CS432\proje432\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+S:\ders\CS432\proje432\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+S:\ders\CS432\proje432\Client\bin\Debug\netcoreapp3.1\Client.dll
+S:\ders\CS432\proje432\Client\bin\Debug\netcoreapp3.1\Client.pdb
+S:\ders\CS432\proje432\Client\obj\Debug\netcoreapp3.1\Client.csproj.AssemblyReference.cache
+S:\ders\CS432\proje432\Client\obj\Debug\netcoreapp3.1\Client.Form1.resources
+S:\ders\CS432\proje432\Client\obj\Debug\netcoreapp3.1\Client.csproj.GenerateResource.cache
+S:\ders\CS432\proje432\Client\obj\Debug\netcoreapp3.1\Client.GeneratedMSBuildEditorConfig.editorconfig
+S:\ders\CS432\proje432\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+S:\ders\CS432\proje432\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+S:\ders\CS432\proje432\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+S:\ders\CS432\proje432\Client\obj\Debug\netcoreapp3.1\Client.dll
+S:\ders\CS432\proje432\Client\obj\Debug\netcoreapp3.1\Client.pdb
+S:\ders\CS432\proje432\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
+D:\Users\ugurkagan\Desktop\proje432\Client\bin\Debug\netcoreapp3.1\Client.exe
+D:\Users\ugurkagan\Desktop\proje432\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+D:\Users\ugurkagan\Desktop\proje432\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+D:\Users\ugurkagan\Desktop\proje432\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+D:\Users\ugurkagan\Desktop\proje432\Client\bin\Debug\netcoreapp3.1\Client.dll
+D:\Users\ugurkagan\Desktop\proje432\Client\bin\Debug\netcoreapp3.1\Client.pdb
+D:\Users\ugurkagan\Desktop\proje432\Client\obj\Debug\netcoreapp3.1\Client.csproj.AssemblyReference.cache
+D:\Users\ugurkagan\Desktop\proje432\Client\obj\Debug\netcoreapp3.1\Client.Form1.resources
+D:\Users\ugurkagan\Desktop\proje432\Client\obj\Debug\netcoreapp3.1\Client.csproj.GenerateResource.cache
+D:\Users\ugurkagan\Desktop\proje432\Client\obj\Debug\netcoreapp3.1\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ugurkagan\Desktop\proje432\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+D:\Users\ugurkagan\Desktop\proje432\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+D:\Users\ugurkagan\Desktop\proje432\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+D:\Users\ugurkagan\Desktop\proje432\Client\obj\Debug\netcoreapp3.1\Client.dll
+D:\Users\ugurkagan\Desktop\proje432\Client\obj\Debug\netcoreapp3.1\Client.pdb
+D:\Users\ugurkagan\Desktop\proje432\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
